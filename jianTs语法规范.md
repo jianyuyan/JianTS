@@ -2,10 +2,6 @@
 
 # JianTS 语法规范 v1.5（公开版·修正）
 
-**作者：** 李金雨  
-**邮箱：** 81518166@qq.com  
-**GitHub：** https://github.com/jianyuyan
-
 > **一句话定义：** JianTS 是 TypeScript 的方言——用拼音关键词替换声明层，用 `[T]` 替换泛型尖括号，流程控制部分拼音化，语义 100% 兼容 TypeScript。
 >
 > **核心理念：** 让中文开发者用更少的「思维空转」写 TypeScript。
