@@ -246,7 +246,7 @@ JCL 与以下常见开源许可证的兼容性：
 | 商业授权申请 | wbtm2718@qq.com |
 | 法律事务 | wbtm2718@qq.com |
 | 社区讨论 | discussions@jian-lang.org |
-| GitHub | https://github.com/jian-lang |
+| GitHub | `https://github.com/jianyuyan` |
 
 
 ---
